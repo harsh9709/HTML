@@ -1,0 +1,30 @@
+
+body{
+   background-color: #cde5da;
+}
+div a{
+    display: flex;
+   justify-content: center;
+
+}
+hr{
+    width: 10%;
+     border-style: none;
+    border-top-style: dotted ; 
+    border-color: rgb(203, 199, 199);
+    border-width: 10px;
+}
+#my-info{
+    background-color: #b8e3e3;
+    border: 3px solid rgb(203, 199, 199);
+    border-radius: 20px;
+    border-style: dashed;
+}
+h1,h3{
+    color: #66BFBF;
+}
+#my-info:hover{
+
+    box-shadow: 5px 10px rgb(93, 100, 99);
+}
+   
